@@ -6,6 +6,8 @@
 
 </div>
 
+Pull requests are welcome!
+
 A library to read and write **Metadata** in audio files.
 Built on top of [`taglib`](https://github.com/taglib/taglib) [`v2.1`](https://github.com/taglib/taglib/tree/v2.1).
 
