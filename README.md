@@ -1,7 +1,7 @@
 <div align=center>
 <img src="./assets/SwiftTagLib.png" width="20%"/>
 
-# SwiftTagLib
+# SwiftTagLib(C++ interop)
 ![Swift Version](https://img.shields.io/badge/Swift-5.9+-orange.svg) ![iOS Version](https://img.shields.io/badge/iOS-16+-orange.svg)
 
 </div>
